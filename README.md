@@ -1,6 +1,7 @@
 ## Hello, World 👋
 Fun fact about me i really like reading.
 I am currently learning how to crochet.
+I enjoy playing video games and my favorite is elden ring.
 My favourite color is green,
 and my favorite movies are the lord of the rings trilogy
 
