@@ -1,4 +1,8 @@
 ## Hello, World 👋
+Fun fact about me i really like reading
+i am also currently learning how to crochet
+my favourite color is green,
+my favorite movies are the lord of the rings trilogy
 
 <!--
 **Mistborn112/Mistborn112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
