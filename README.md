@@ -5,7 +5,8 @@ I am currently learning how to crochet,
 and I enjoy playing video games and my favorite is elden ring.
 My favourite color is green,
 and my favorite movies are the lord of the rings trilogy.
-
+this is my favorite character from elden ring
+<img src="https://static.wikia.nocookie.net/eldenring/images/5/54/Elden_Ring_Screenshot_07.jpg/revision/latest/scale-to-width-down/1000?cb=20210120142808" Width="200" height="200"
 
 
 <!--
