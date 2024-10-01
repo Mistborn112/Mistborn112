@@ -7,8 +7,8 @@ My favourite color is green,
 and my favorite movies are the lord of the rings trilogy.
 this is my favorite character from elden ring
 <img src="https://static.wikia.nocookie.net/eldenring/images/5/54/Elden_Ring_Screenshot_07.jpg/revision/latest/scale-to-width-down/1000?cb=20210120142808" Width="200" height="200" />
-this is my favorite book
-<img scr="https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1481883253i/33396914.jpg" width="200" height="200" />
+My favorite book is assassin's quest
+
 
 <!--
 **Mistborn112/Mistborn112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
