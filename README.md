@@ -1,10 +1,12 @@
 ## Hello, World 👋
-Fun fact about me i really like reading.
-I am currently learning how to crochet.
-I enjoy playing video games and my favorite is elden ring.
+I am currently studying graphic design and i hope to design book covers in the future
+some fun facts about me are i really like reading,
+I am currently learning how to crochet,
+and I enjoy playing video games and my favorite is elden ring.
 My favourite color is green,
 and my favorite movies are the lord of the rings trilogy.
-I am currently learning graphic design and in the future i hope to design book covers
+
+
 
 <!--
 **Mistborn112/Mistborn112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
